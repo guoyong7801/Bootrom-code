@@ -1,8 +1,8 @@
 @@*******************************************************************************
 @
-@  MM2BootCode.arm - 128 byte bootstrap for Pilot II            [implementation]
+@  MM2BootCode.arm - 128 byte bootstrap for F0-F1 and Zynq-F1            [implementation]
 @
-@  Copyright ©2006, ServerEngines LLC.  All rights reserved.
+@  Copyright ©2019, AspeedTech India Pvt ltd.  All rights reserved.
 @
 @  REGISTER USAGE:
 @     r0    - ReadBuffer start address inside routine
